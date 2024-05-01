@@ -5,17 +5,19 @@ The project utilized the Sorghum-100 dataset, accessible via the following link:
 
 https://www.kaggle.com/competitions/sorghum-id-fgvc-9/data
 
+The project aimed to preprocess a dataset consisting of 74 GB of sorghum images, apply augmentations, and subsequently develop and train deep learning CNN models for the classification of these sorghum images.
+
 Within this repository, you will find the following files:
 
 1. Statistical Analysis:
 
-  1.1 colour_statistics.ipynb
-  
-  1.2 statistics.on.data.ipynb
-  
-  1.3tsna_analysis.ipynb
+1.1 colour_statistics.ipynb
 
-2- Various Modified Models:
+1.2 statistics.on.data.ipynb
+
+1.3tsna_analysis.ipynb
+
+2. Various Modified Models:
 
 2.1 Efficient.Net.Sorgh.py
 
