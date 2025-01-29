@@ -15,7 +15,7 @@ Within this repository, you will find the following files:
 
 1.2 statistics.on.data.ipynb
 
-1.3tsna_analysis.ipynb
+1.3 tsna_analysis.ipynb
 
 2. Various Modified Models:
 
